@@ -1,4 +1,8 @@
 #!/bin/bash
+#
+# chmod +x install_prometheus.sh
+# sudo ./install_prometheus.sh
+#
 
 PROMETHEUS_VERSION="2.50.0"
 NODE_EXPORTER_VERSION="1.6.0"
